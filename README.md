@@ -13,5 +13,4 @@ My ultimate goal is to create an AI tool that will
 The state of the prototype as of now doesn't include AI, rather just has present designs.
 
 ## 🚧 Current Status 
-This is an early-stage prototype focused on design concepts.
-Note: The current version does not yet include AI features.  But it does have a flow working that ends in preview of the user's blog content in a new design.
+This is an early-stage prototype focused on functinality concepts and using Bolt. The current version does not yet include AI features.  But it does have a flow working that ends in preview of the user's blog content in a new design.
