@@ -3,6 +3,10 @@
 
 Prototyping ideas for and AI driven WordPress front-end blog design tool.  This is a learning experiment done Bolt.new
 
+<img width="919" height="771" alt="image" src="https://github.com/user-attachments/assets/4e849b13-9d99-44bb-a3e2-ea2347db1258" />
+
+
+
 My ultimate goal is to create an AI tool that will 
 * Take a user's wordpress.com blog url
 * Take a user's blog design description
